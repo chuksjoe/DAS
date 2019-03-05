@@ -8,8 +8,8 @@ The Departmental Administrative System (DAS) software is an information system t
 
 Other features that are included are:
 
-1.  Staff Details( Bio-data and Contact info)
-2.  Courses studied in by the students at all level and the lecturers that take them.
+- Staff Details( Bio-data and Contact info)
+- Courses studied in by the students at all level and the lecturers that take them.
 
 The methodology adopted in carrying out this project is called Structured System Analysis and Design Methodology (SSADM) and the outputs are stored in a database.
 
@@ -31,11 +31,9 @@ The steps to follow in configuring the ODBC data source are as follow:
 10. You follow the same steps in creating the ODBC data source for the three database files used by the DAS software.
 11. The Data Source Name you enter for the database files are:
 
-    a. StudentSource – projectStudents.mdb
-
-    b. StaffSource – projectStaff.mdb
-
-    c. LectureSource – projectLecturers.mdb.
+    - StudentSource – projectStudents.mdb
+    - StaffSource – projectStaff.mdb
+    - LectureSource – projectLecturers.mdb.
 
 12. You are good to go.
 
@@ -53,10 +51,8 @@ The steps to follow in configuring the ODBC data source are as follow:
 8. You follow the same steps in creating the ODBC data source for the three database files used by the DAS software.
 9. The Data Source Name you enter for the database files are:
 
-   a. StudentSource – projectStudents.mdb
-
-   b. StaffSource – projectStaff.mdb
-
-   c. LectureSource – projectLecturers.mdb
+   - StudentSource – projectStudents.mdb
+   - StaffSource – projectStaff.mdb
+   - LectureSource – projectLecturers.mdb
 
 10. You are good to go.
