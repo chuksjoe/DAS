@@ -1,0 +1,150 @@
+[Root]
+Most Recent Package=DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS
+
+
+[Package|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\DAS SOFTWARE
+
+[Package|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS|Files Found]
+
+[Package|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS|Files Released]
+
+[Package|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS|Missing Dependency Information]
+
+[Package|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS|Out-of-Date Dependency Information]
+
+[Package|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS|Files Added]
+c:\users\chuksjoe\documents\project\projectstaff.mdb=
+c:\users\chuksjoe\documents\project\projectstudents.mdb=
+c:\users\chuksjoe\documents\project\prolecturers.mdb=
+
+[Package|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS|Files Removed]
+
+[Package|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS|Files In Project]
+C:\Users\chuksjoe\Documents\PROJECT\MY_DAS_Project.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files (x86)\Common Files\DESIGNER\MSCDRUN.DLL=Yes
+C:\Windows\System32\MSRDO20.DLL=Yes
+C:\Windows\System32\RDOCURS.DLL=Yes
+C:\Windows\SysWOW64\TABCTL32.OCX=Yes
+C:\Program Files (x86)\Common Files\microsoft shared\DAO\DAO350.DLL=Yes
+C:\Windows\System32\MSJET35.DLL=Yes
+C:\Windows\System32\MSJTER35.DLL=Yes
+C:\Windows\System32\MSJINT35.DLL=Yes
+C:\Windows\System32\vbajet32.dll=Yes
+C:\Windows\System32\expsrv.dll=Yes
+C:\Windows\System32\MSRD2X35.DLL=Yes
+C:\Windows\System32\MSREPL35.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Windows\System32\VB5DB.DLL=Yes
+C:\Windows\SysWOW64\MSADODC.OCX=Yes
+C:\Windows\SysWOW64\msstdfmt.dll=Yes
+C:\Windows\SysWOW64\MSBIND.DLL=Yes
+C:\Windows\SysWOW64\MSDBRPTR.DLL=Yes
+C:\Windows\SysWOW64\MSDATGRD.OCX=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Users\chuksjoe\Documents\PROJECT\ProjectStaff.mdb=Yes
+C:\Users\chuksjoe\Documents\PROJECT\ProjectStudents.mdb=Yes
+C:\Users\chuksjoe\Documents\PROJECT\ProLecturers.mdb=Yes
+
+[Package|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS|Configure Registry Files]
+Applicable=No
+
+[Package|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS|Configure Remote Servers]
+Applicable=No
+
+[Package|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS|Install Locations]
+C:\Users\chuksjoe\Documents\PROJECT\MY_DAS_Project.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Common Files\DESIGNER\MSCDRUN.DLL=$(CommonFiles)\Designer
+C:\Windows\System32\MSRDO20.DLL=$(WinSysPath)
+C:\Windows\System32\RDOCURS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTL32.OCX=$(WinSysPath)
+C:\Program Files (x86)\Common Files\microsoft shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\Windows\System32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\vbajet32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\expsrv.dll=$(WinSysPathSysFile)
+C:\Windows\System32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB5DB.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSADODC.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\msstdfmt.dll=$(WinSysPath)
+C:\Windows\SysWOW64\MSBIND.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Users\chuksjoe\Documents\PROJECT\ProjectStaff.mdb=$(AppPath)
+C:\Users\chuksjoe\Documents\PROJECT\ProjectStudents.mdb=$(AppPath)
+C:\Users\chuksjoe\Documents\PROJECT\ProLecturers.mdb=$(AppPath)
+
+[Package|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS|Configure Shared Files]
+Applicable=Yes
+C:\Users\chuksjoe\Documents\PROJECT\MY_DAS_Project.exe=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Users\chuksjoe\Documents\PROJECT\ProjectStaff.mdb=Yes
+C:\Users\chuksjoe\Documents\PROJECT\ProjectStudents.mdb=Yes
+C:\Users\chuksjoe\Documents\PROJECT\ProLecturers.mdb=Yes
+
+[Package|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS|Distribution]
+Type=single
+Size=
+Title=DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS
+
+[Package|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS|IconGroups]
+Group0=DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS]
+Icon1=MY_DAS_Project.exe
+Title1=DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|DAS SOFTWARE BY ORJIAKOR CHUKWUNONSO 10/1930/CS|Package]
+PackageFolder=d:\DAS SOFTWARE
+ProjectFolder=C:\Users\chuksjoe\Documents\PROJECT\MY PROJECT
+ServerSideCab=
+File1=d:\DAS SOFTWARE\setup.exe
+File2=d:\DAS SOFTWARE\Setup.Lst
+File3=d:\DAS SOFTWARE\MY_DAS_Project.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
